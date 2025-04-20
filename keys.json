@@ -1,16 +1,1 @@
-{
-    "keys": {
-        "KEY1": {
-            "hardware_id": "HARDWARE_ID_1",
-            "expiry": "2025-12-31T23:59:59"
-        },
-        "KEY2": {
-            "hardware_id": "HARDWARE_ID_2",
-            "expiry": "2025-12-31T23:59:59"
-        }
-    },
-    "active_keys": [
-        "KEY1",
-        "KEY2"
-    ]
-}
+e710c39eff33470d2ee7800d9fb4860e ,  2026-12-23T12:00:00+07:00 , device : 99
